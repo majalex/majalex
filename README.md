@@ -6,7 +6,7 @@
   <a href="https://amdev.me/" target="_blank">
     <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://amdev.me/](https://www.linkedin.com/in/aleksander-maj-7611a824b/" target="_blank">
+  <a href="https://www.linkedin.com/in/aleksander-maj-7611a824b/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
